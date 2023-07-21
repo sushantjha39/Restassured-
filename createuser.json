@@ -1,0 +1,13 @@
+{
+    "customerId": "zteestjog",
+    "customerName": "ztest",
+    "email": "ztest@gmail.com",
+    "password": "adcA343@",
+    "roles": [
+        {
+            "roleId": 2
+        }
+    ],
+    "kfComm2cEnabled": "true",
+    "opcEnabled": "false"
+}
